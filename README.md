@@ -79,7 +79,7 @@ Both charts are horizontal bar charts that update dynamically based on the activ
 
 ### Data Validation
 
-All three dropdowns (Job Title, Country, Type) use **Data Validation → List** feature.
+All three dropdowns (Job Title, Country, Type) use **Excel's Data Validation** feature configured as a selectable list.
 - User input is restricted to predefined, validated options
 - Incorrect or inconsistent entries are prevented
 - Improves overall dashboard usability by guiding users toward valid selections 
